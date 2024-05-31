@@ -4,7 +4,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.asdf.Entity.Payroll;
 import com.example.asdf.Service.PayrollService;
-import com.example.asdf.Service.PayrollServiceImpl;
 
 import java.util.List;
 
